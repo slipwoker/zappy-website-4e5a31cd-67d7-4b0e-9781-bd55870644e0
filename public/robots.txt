@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://y-n-k-logos-consulting-services-ltd-4e5a31cd.zappy5.app/sitemap.xml
