@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# Y.N.K logos consulting & Services Ltd — Generative Engine Optimization Map
+
+> A שמנים לרכב ותחזוקה business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://y-n-k-logos-consulting-service.zappy5.app
 גלו שמנים איכותיים לרכב קל וכבד בקפריסין. יבוא שמנים לרכב קפריסין ממיטב היצרנים הגרמניים. פתרונות תחזוקה מקצועיים לכל סוגי הרכבים.
 
 ### שירותים
-https://example.com/services
+https://y-n-k-logos-consulting-service.zappy5.app/services
 מכירת שמנים גרמניים לרכב בקפריסין - מגוון מלא של שמנים לרכב קל וכבד, שמני הילוכים, נוזלי בלמים ומוצרי תחזוקה מקצועיים. יבוא ישיר מגרמניה.
 
 ### אודות
-https://example.com/about
+https://y-n-k-logos-consulting-service.zappy5.app/about
 הכירו את Y.N.K logos consulting & Services Ltd - מובילים ביבוא שמנים לרכב קפריסין. שנות ניסיון בשוק, מחויבות לאיכות ושירות מקצועי לבעלי רכב קל וכבד.
 
 ### צור קשר
-https://example.com/contact
+https://y-n-k-logos-consulting-service.zappy5.app/contact
 צרו קשר עם Y.N.K logos consulting & Services Ltd לייעוץ מקצועי ביבוא שמנים לרכב קפריסין. נשמח לעזור לכם לבחור את השמנים המתאימים לרכב שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://y-n-k-logos-consulting-service.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://y-n-k-logos-consulting-service.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://y-n-k-logos-consulting-service.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Y.N.K logos consulting & Services Ltd
+Y.N.K logos consulting & Services Ltd is a business in the שמנים לרכב ותחזוקה industry.
+
+## Target Audience
+בעלי רכב קל וכבד בקפריסין
+
+## Industry
+שמנים לרכב ותחזוקה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://y-n-k-logos-consulting-service.zappy5.app/sitemap.xml
+- **Robots.txt**: https://y-n-k-logos-consulting-service.zappy5.app/robots.txt
