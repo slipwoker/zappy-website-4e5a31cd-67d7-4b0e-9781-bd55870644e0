@@ -1,45 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://y-n-k-logos-consulting-service.zappy5.app</loc>
+    <loc>https://ynk-logos.com</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com" />
   </url>
   <url>
-    <loc>https://y-n-k-logos-consulting-service.zappy5.app/services</loc>
+    <loc>https://ynk-logos.com/en</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/ru</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/services</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/services" />
   </url>
   <url>
-    <loc>https://y-n-k-logos-consulting-service.zappy5.app/about</loc>
+    <loc>https://ynk-logos.com/en/services</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/services" />
   </url>
   <url>
-    <loc>https://y-n-k-logos-consulting-service.zappy5.app/contact</loc>
+    <loc>https://ynk-logos.com/ru/services</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/services" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/services" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/about</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/about" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/en/about</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/about" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/ru/about</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/about" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/contact</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/contact" />
   </url>
   <url>
-    <loc>https://y-n-k-logos-consulting-service.zappy5.app/privacy</loc>
+    <loc>https://ynk-logos.com/en/contact</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/contact" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/ru/contact</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/contact" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/privacy</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/privacy" />
   </url>
   <url>
-    <loc>https://y-n-k-logos-consulting-service.zappy5.app/terms</loc>
+    <loc>https://ynk-logos.com/en/privacy</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/privacy" />
   </url>
   <url>
-    <loc>https://y-n-k-logos-consulting-service.zappy5.app/accessibility</loc>
+    <loc>https://ynk-logos.com/ru/privacy</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/privacy" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/terms</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/terms" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/en/terms</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/terms" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/ru/terms</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/terms" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/accessibility</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/accessibility" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/en/accessibility</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/accessibility" />
+  </url>
+  <url>
+    <loc>https://ynk-logos.com/ru/accessibility</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://ynk-logos.com/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ynk-logos.com/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ynk-logos.com/ru/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ynk-logos.com/accessibility" />
   </url>
 </urlset>

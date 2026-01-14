@@ -1,57 +1,47 @@
-# Y.N.K logos consulting & Services Ltd — Generative Engine Optimization Map
-
-> A שמנים לרכב ותחזוקה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://y-n-k-logos-consulting-service.zappy5.app
+https://ynk-logos.com
 גלו שמנים איכותיים לרכב קל וכבד בקפריסין. יבוא שמנים לרכב קפריסין ממיטב היצרנים הגרמניים. פתרונות תחזוקה מקצועיים לכל סוגי הרכבים.
 
 ### שירותים
-https://y-n-k-logos-consulting-service.zappy5.app/services
+https://ynk-logos.com/services
 מכירת שמנים גרמניים לרכב בקפריסין - מגוון מלא של שמנים לרכב קל וכבד, שמני הילוכים, נוזלי בלמים ומוצרי תחזוקה מקצועיים. יבוא ישיר מגרמניה.
 
 ### אודות
-https://y-n-k-logos-consulting-service.zappy5.app/about
+https://ynk-logos.com/about
 הכירו את Y.N.K logos consulting & Services Ltd - מובילים ביבוא שמנים לרכב קפריסין. שנות ניסיון בשוק, מחויבות לאיכות ושירות מקצועי לבעלי רכב קל וכבד.
 
 ### צור קשר
-https://y-n-k-logos-consulting-service.zappy5.app/contact
+https://ynk-logos.com/contact
 צרו קשר עם Y.N.K logos consulting & Services Ltd לייעוץ מקצועי ביבוא שמנים לרכב קפריסין. נשמח לעזור לכם לבחור את השמנים המתאימים לרכב שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://y-n-k-logos-consulting-service.zappy5.app/privacy
+https://ynk-logos.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://y-n-k-logos-consulting-service.zappy5.app/terms
+https://ynk-logos.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://y-n-k-logos-consulting-service.zappy5.app/accessibility
+https://ynk-logos.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Y.N.K logos consulting & Services Ltd
-Y.N.K logos consulting & Services Ltd is a business in the שמנים לרכב ותחזוקה industry.
-
-## Target Audience
-בעלי רכב קל וכבד בקפריסין
-
-## Industry
-שמנים לרכב ותחזוקה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://y-n-k-logos-consulting-service.zappy5.app/sitemap.xml
-- **Robots.txt**: https://y-n-k-logos-consulting-service.zappy5.app/robots.txt
+- **Sitemap**: https://ynk-logos.com/sitemap.xml
+- **Robots.txt**: https://ynk-logos.com/robots.txt
