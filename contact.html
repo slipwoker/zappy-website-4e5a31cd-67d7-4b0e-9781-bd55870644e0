@@ -62,7 +62,7 @@
   opacity: 0.7;
 }</style>
     <!-- Cookie Consent -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
@@ -300,6 +300,7 @@
         .nav-menu li > .sub-menu.mobile-expanded, nav li > .sub-menu.mobile-expanded, .navbar li > .sub-menu.mobile-expanded, #navMenu li > .sub-menu.mobile-expanded { opacity: 1 !important; visibility: visible !important; pointer-events: auto !important; }
         .nav-menu li:has(.sub-menu), nav li:has(.sub-menu), .navbar li:has(.sub-menu), #navMenu li:has(.sub-menu) { display: flex !important; flex-wrap: wrap !important; align-items: center !important; }
         .nav-menu li:has(.sub-menu) > a, nav li:has(.sub-menu) > a, .navbar li:has(.sub-menu) > a, #navMenu li:has(.sub-menu) > a { flex: 1 !important; }
+        .nav-menu li:has(.sub-menu) > a [class*="chevron"], .nav-menu li:has(.sub-menu) > a [class*="arrow"], .nav-menu li:has(.sub-menu) > a .fa-chevron-down, .nav-menu li:has(.sub-menu) > a .fa-angle-down, nav li:has(.sub-menu) > a [class*="chevron"], nav li:has(.sub-menu) > a [class*="arrow"], #navMenu li:has(.sub-menu) > a [class*="chevron"], #navMenu li:has(.sub-menu) > a [class*="arrow"] { display: none !important; visibility: hidden !important; }
         .mobile-submenu-toggle { display: flex !important; align-items: center !important; justify-content: center !important; width: 44px !important; height: 44px !important; background: transparent !important; border: none !important; cursor: pointer !important; }
         .mobile-submenu-toggle::after { content: '' !important; width: 0 !important; height: 0 !important; border-left: 6px solid transparent !important; border-right: 6px solid transparent !important; border-top: 7px solid currentColor !important; transition: transform 0.3s ease !important; }
         .mobile-submenu-toggle.expanded::after { transform: rotate(180deg) !important; }
@@ -321,7 +322,7 @@
     <div class="container nav-container">
       <div class="nav-brand">
         <a href="/" class="logo-link">
-          <img src="/assets/y-n-k-logos-consulting-services-ltd-logo.webp" alt="Y.N.K logos consulting &amp; Services Ltd" class="logo" />
+          <img src="/assets/y-n-k-logos-consulting-services-ltd-logo.webp" alt="Y.N.K logos consulting &amp; Services Ltd" class="logo">
         </a>
       </div>
       
@@ -360,7 +361,7 @@
     </div>
   </section>
 
-  <section class="contact-section">
+  <section class="contact-section" id="zappy-section-1">
     <div class="container">
       <div class="contact-wrapper">
         <div class="contact-form-container">
@@ -369,22 +370,22 @@
           <form class="contact-form" id="contactForm">
             <div class="form-group">
               <label for="name">שם מלא *</label>
-              <input type="text" id="name" name="name" required="" placeholder="הכניסו את שמכם המלא">
+              <input type="text" id="name" name="name" required="" placeholder="הכניסו את שמכם המלא" fdprocessedid="tab7n">
             </div>
             
             <div class="form-group">
               <label for="email">אימייל *</label>
-              <input type="email" id="email" name="email" required="" placeholder="your@email.com">
+              <input type="email" id="email" name="email" required="" placeholder="your@email.com" fdprocessedid="0oqoeh">
             </div>
             
             <div class="form-group">
               <label for="phone">טלפון *</label>
-              <input type="tel" id="phone" name="phone" required="" placeholder="מספר הטלפון שלכם">
+              <input type="tel" id="phone" name="phone" required="" placeholder="מספר הטלפון שלכם" fdprocessedid="vxt6no">
             </div>
             
             <div class="form-group">
               <label for="subject">נושא</label>
-              <select id="subject" name="subject">
+              <select id="subject" name="subject" fdprocessedid="7h4uxl" class="zappy-editable-dropdown">
                 <option value="">בחרו נושא</option>
                 <option value="שמנים לרכב קל">שמנים לרכב קל</option>
                 <option value="שמנים לרכב כבד">שמנים לרכב כבד</option>
@@ -401,50 +402,54 @@
               <textarea id="message" name="message" rows="5" placeholder="ספרו לנו איך נוכל לעזור לכם..."></textarea>
             </div>
             
-            <button type="submit" class="btn-primary">שלח הודעה</button>
+            <button type="submit" class="btn-primary" fdprocessedid="snsx0o" data-element-type="button" data-element-id="btn-1768400531118-acsr0d5ig" data-native-element="true">שלח הודעה</button>
           </form>
         </div>
         
         <div class="contact-info-container">
           <h2>פרטי התקשרות</h2>
-          <div class="contact-details">
+          <div class="contact-details zappy-vertical-grid">
             <div class="contact-detail-item">
               <div class="contact-icon">
-                <i class="fas fa-phone"></i>
+                <i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1768400531124-umw0rjc33" data-icon-type="fontawesome" style="pointer-events: auto; cursor: pointer;"></i>
               </div>
               <div class="contact-detail-content">
                 <h3>טלפון</h3>
-                <p><a href="tel:[business_phone]">[business_phone]</a></p>
+                <p><a href="tel:[business_phone]" class="zappy-business-placeholder zappy-placeholder-link" data-original-href="tel:[business_phone]" data-placeholder="tel:[business_phone]" data-tab="details"><span class="zappy-business-placeholder" data-placeholder="[business_phone]" style="">
+
+94099741
+
+</span></a></p>
               </div>
             </div>
             
             <div class="contact-detail-item">
               <div class="contact-icon">
-                <i class="fas fa-envelope"></i>
+                <i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1768400531124-goriypru5" data-icon-type="fontawesome" style="pointer-events: auto; cursor: pointer;"></i>
               </div>
               <div class="contact-detail-content">
                 <h3>אימייל</h3>
-                <p><a href="mailto:[business_email]">[business_email]</a></p>
+                <p><a href="mailto:[business_email]" class="zappy-business-placeholder zappy-placeholder-link" data-original-href="mailto:[business_email]" data-placeholder="mailto:[business_email]" data-tab="details" data-native-element="true" data-element-id="btn-1768400678424-cvbl1iy9k" data-element-type="button" style="outline: none;">ynk.logos@gmail.com</a></p>
               </div>
             </div>
             
             <div class="contact-detail-item">
               <div class="contact-icon">
-                <i class="fas fa-map-marker-alt"></i>
+                <i class="fas fa-map-marker-alt" data-element-type="icon" data-element-id="icon-1768400531124-tahcgr7xd" data-icon-type="fontawesome" style="pointer-events: auto; cursor: pointer;"></i>
               </div>
               <div class="contact-detail-content">
                 <h3>כתובת</h3>
-                <p>[business_address]</p>
+                <p><span class="zappy-business-placeholder" data-placeholder="[business_address]">[business_address]</span></p>
               </div>
             </div>
             
             <div class="contact-detail-item">
               <div class="contact-icon">
-                <i class="fas fa-clock"></i>
+                <i class="fas fa-clock" data-element-type="icon" data-element-id="icon-1768400531124-efmfhxf3e" data-icon-type="fontawesome" style="pointer-events: auto; cursor: pointer;"></i>
               </div>
               <div class="contact-detail-content">
                 <h3>שעות פעילות</h3>
-                <p>ראשון - שישי: 08:00 - 18:00</p>
+                <p>שני- שישי: 08:00 - 18:00</p>
                 <p>שבת: סגור</p>
               </div>
             </div>
@@ -453,7 +458,7 @@
           <div class="contact-cta">
             <h3>מעדיפים לדבר ישירות?</h3>
             <p>צוות השירות שלנו זמין לשירותכם</p>
-            <a href="tel:[business_phone]" class="btn-secondary">התקשרו עכשיו</a>
+            <a href="tel:[business_phone]" class="btn-secondary zappy-business-placeholder zappy-placeholder-link" data-original-href="tel:[business_phone]" data-placeholder="tel:[business_phone]" data-tab="details" data-element-type="button" data-element-id="btn-1768400531118-mye93tq4t" data-native-element="true">התקשרו עכשיו</a>
           </div>
         </div>
       </div>
@@ -501,7 +506,7 @@
       <div class="container">
         <div class="footer-main">
           <div class="all-rights-reserved">
-            <p>© 2026 Y.N.K logos consulting & Services Ltd. כל הזכויות שמורות.</p>
+            <p>© 2026 Y.N.K logos consulting &amp; Services Ltd. כל הזכויות שמורות.</p>
           </div>
           <div class="footer-social"><a href="https://facebook.com/[facebook_handle]" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
 <a href="https://instagram.com/[instagram_handle]" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
