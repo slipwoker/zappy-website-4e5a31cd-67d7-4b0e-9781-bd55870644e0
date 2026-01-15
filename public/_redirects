@@ -25,6 +25,14 @@
 /ru/accessibility  /ru/accessibility.html  200
 /ru/terms  /ru/terms.html  200
 /ru  /ru/index.html  200
+/el  /el/index.html  200
+/el/services  /el/services.html  200
+/el/about  /el/about.html  200
+/el/contact  /el/contact.html  200
+/el/privacy  /el/privacy.html  200
+/el/accessibility  /el/accessibility.html  200
+/el/terms  /el/terms.html  200
+/el  /el/index.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301
