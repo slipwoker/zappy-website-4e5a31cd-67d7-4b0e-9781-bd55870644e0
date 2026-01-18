@@ -1,6 +1,4 @@
-# Y.N.K logos consulting & Services Ltd — Generative Engine Optimization Map
-
-> A שמנים לרכב ותחזוקה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -19,7 +17,7 @@ https://ynk-logos.com/about
 הכירו את Y.N.K logos consulting & Services Ltd - מובילים ביבוא שמנים לרכב קפריסין. שנות ניסיון בשוק, מחויבות לאיכות ושירות מקצועי לבעלי רכב קל וכבד.
 
 ### Page
-https://ynk-logos.com/menu-group-1768495967259
+https://ynk-logos.com/products
 
 ### צור קשר - קבלו ייעוץ מקצועי — Y.N.K logos consulting & Services Ltd
 https://ynk-logos.com/contact
@@ -43,15 +41,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Y.N.K logos consulting & Services Ltd
-Y.N.K logos consulting & Services Ltd is a business in the שמנים לרכב ותחזוקה industry.
-
-## Target Audience
-בעלי רכב קל וכבד בקפריסין
-
-## Industry
-שמנים לרכב ותחזוקה
-
+## About Business
 ---
 
 # Additional Resources
